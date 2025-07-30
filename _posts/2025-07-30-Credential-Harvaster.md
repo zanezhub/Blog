@@ -4,8 +4,8 @@ date: 2025-07-30
 ---
 
 This is from a phishing email, where the attacked sent a malicious URL to the service desk.
-![Phishing email](https://github.com/zanezhub/Blog/blob/main/images/Pasted%20image%2020250728084250.png)
-![Image]({{ site.baseurl }}/images/Pasted image 20250728084250.png)
+![Phishing email](https://github.com/zanezhub/Blog/blob/main/assets/image/Pasted%20image%2020250728084250.png)
+![Image]({{ site.baseurl }}/assets/image/assets/image/Pasted image 20250728084250.png)
 
 I checked the link in VirusTotal and it appears to be malicious : 
 
