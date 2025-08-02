@@ -1,3 +1,2 @@
 theme: minima
-url: https://zanezhub.github.io/Blog/
-baseurl: ''
+baseurl: '/Blog'
